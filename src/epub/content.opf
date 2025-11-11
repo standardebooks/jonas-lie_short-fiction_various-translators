@@ -100,6 +100,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-2">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
