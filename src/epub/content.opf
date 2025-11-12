@@ -64,8 +64,8 @@
 		<meta property="file-as" refines="#translator-1">Bain, Robert Nisbet</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Robert_Nisbet_Bain</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50021153</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Littell’s Living Age</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Age, Littell’s Living</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Eliakim_Littell</meta>
@@ -81,6 +81,7 @@
 		<dc:contributor id="transcriber-2">Jim Wiborg</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Wiborg, Jim</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
@@ -89,7 +90,6 @@
 		<meta property="file-as" refines="#transcriber-4">Wikisource</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://en.wikisource.org/</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-4">https://en.wikipedia.org/wiki/Wikisource</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
 		<meta property="se:name.person.full-name" refines="#producer-1">Hendrik de Wetterle Bonow Kaiber</meta>
