@@ -51,7 +51,7 @@
 		<!-- The Grey -->
 		<dc:source>https://en.wikisource.org/wiki/Littell%27s_Living_Age/Volume_142/Issue_1835/The_Grey</dc:source>
 		<dc:source>https://archive.org/details/sim_living-age_1879-08-16_142_1835</dc:source>
-		<meta property="se:word-count">40036</meta>
+		<meta property="se:word-count">39773</meta>
 		<meta property="se:reading-ease.flesch">74.12</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jonas-lie_short-fiction_various-translators</meta>
 		<dc:creator id="author">Jonas Lie</dc:creator>
