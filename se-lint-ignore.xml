@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="jack-of-sjoholm-and-the-gan-finn.xhtml">
-		<ignore>
-			<code>t-020</code>
+		<ignore code="t-020">
 			<reason>The endnote link is before the hyphen because it refers only to the first part of the compound word.</reason>
 		</ignore>
 	</file>
