@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="jack-of-sjoholm-and-the-gan-finn.xhtml">
 		<ignore code="t-020">
+			<line>10</line>
 			<reason>The endnote link is before the hyphen because it refers only to the first part of the compound word.</reason>
 		</ignore>
 	</file>
