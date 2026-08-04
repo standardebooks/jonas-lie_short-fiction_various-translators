@@ -39,7 +39,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of short fiction by Norwegian author Jonas Lie, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jonas-lie"&gt;Jonas Lie&lt;/a&gt; was a Norwegian author of both long and short fiction. His works often seek to portray life and customs of Norwegian society, like the economic importance of fishing and supernatural beings from local folklore.&lt;/p&gt;
 			&lt;p&gt;His stories are set in the Norwegian countryside and feature primarily peasants. Both Christianity and Nordic folklore are present in the tales, with spirits and magic having a significant role in the plots.&lt;/p&gt;
